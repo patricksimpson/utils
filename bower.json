@@ -1,0 +1,24 @@
+{
+  "name": "dev-utils",
+  "version": "0.0.1",
+  "homepage": "https://github.com/patricksimpson/utils",
+  "authors": [
+    "patricksimpson <izerop@gmail.com>"
+  ],
+  "description": "Developer utilities",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "~0.10.6"
+  }
+}
